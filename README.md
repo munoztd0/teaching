@@ -29,7 +29,7 @@ A non exaustive list of skills/methods we are going to focus on:
 - Terminal familiarity
 - Automatisation (creating functions)
 - Data wrangling and vizualisation
-- 
+
 Is this workshop suited for you ? check [here](https://github.com/munoztd0/Data_Wrangling_NeuroMaster/blob/main/README.md)
 
 <br>
