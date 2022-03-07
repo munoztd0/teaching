@@ -34,6 +34,11 @@ Is this workshop suited for you ? check [here](https://github.com/munoztd0/Data_
 
 <br>
 
+*Rmarkdown Tips and Tricks*. [Rmarkdown Workshop](https://munoztd0.github.io/DAP_2021/RESOURCES/Rmardkown_tips_and_tricks.html)
+
+<br>
+
+
 
 *A gathering of tutorials to install and setup different tools to analyze data in psychology and neuroscience.*. [Software Workshop](https://munoztd0.github.io/Hitchhikers_guide_to_the_brain/install)
 
