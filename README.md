@@ -4,7 +4,7 @@ Another purpose is to create a network of people interested in Data Science and 
 
 Moreover, if you are interested in the project don’t hesitate to share your stuff !
 
-## R Lunches 
+## UniGe R Lunches 
 
 <br>
 
