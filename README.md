@@ -4,6 +4,16 @@ Another purpose is to create a network of people interested in Data Science and 
 
 Moreover, if you are interested in the project don’t hesitate to share your stuff !
 
+## R Lunches 
+
+<br>
+
+Tuesday (12pm-13pm), 4 April 2023, UniMail M3220 [Recording](https://unige.zoom.us/rec/share/bmPWK9YqdK9FI74DtVnhEgaca8isNWNkjwxjVP2TeRJ_TnRsRp3HpRb5DFuYQZXO.hBVyShgZ9SLyqESP) [Slides](https://we-data-ch.github.io/Web_Deployment_With_R/R-Lunch)
+*Publish your results online with R!* 
+<!-- [Slides (soon)](https://we-data-ch.github.io/workshops/XXX) -->
+
+
+
 ## Workshops
 
 *Dataviz with R and ggplot2*. [Data Viz Workshop](https://we-data-ch.github.io/ggplot_basic/)
